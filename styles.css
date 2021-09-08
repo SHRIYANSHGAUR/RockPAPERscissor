@@ -1,0 +1,53 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #7ED3E7;
+}
+
+h1 {
+  margin: 20px;
+  font-family: 'COVERTED_BY_YOUR_GRACE',cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #0170A4;
+}
+
+.p1 {
+  font-size: 3rem;
+  color: #B1071C;
+  font-family: 'DANCINGSCRIPT', cursive;
+}
+
+.p2 {
+  font-size: 3rem;
+  color: #B1071C;
+  font-family: 'DANCINGSCRIPT', cursive;
+}
+
+.f{
+  font-size: 1rem;
+  color: #558219;
+  font-family: 'BADSCRIPS', cursive;
+
+}
+
+img {
+  width: 70%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+
+}
