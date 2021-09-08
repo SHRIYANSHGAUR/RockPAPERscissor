@@ -36,8 +36,8 @@ switch (rad2) {
 if(str==str2)
 {
        document.querySelector("h1").textContent=" DRAW";
-       document.querySelector(".p1").style.color="#FFB304";
-       document.querySelector(".p2").style.color="#FFB304";
+       document.querySelector(".p1").style.color="#ffec04";
+       document.querySelector(".p2").style.color="#ffec04";
 
 
 }
@@ -47,7 +47,7 @@ else{
 if(( str==1 && str2==3)  || (str==2 && str2==1)   || (str==3 && str2==2)    )
 {
        document.querySelector("h1").textContent="PLAYER 1 WINS";
-       document.querySelector(".p1").style.color="#FFB304";
+       document.querySelector(".p1").style.color="#ffec04";
 
 
 
@@ -56,7 +56,7 @@ if(( str==1 && str2==3)  || (str==2 && str2==1)   || (str==3 && str2==2)    )
 else
 {
        document.querySelector("h1").textContent="PLAYER 2 WINS";
-        document.querySelector(".p2").style.color="#FFB304";
+        document.querySelector(".p2").style.color="#ffec04";
 
 
 }
