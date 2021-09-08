@@ -20,6 +20,9 @@ h1 {
   text-shadow: 5px 0 #232931;
   font-size: 5rem;
   color: #0170A4;
+  color: #0170A4;
+  color: #FB9800;
+
 }
 
 .p1 {
@@ -40,6 +43,22 @@ h1 {
   font-family: 'BADSCRIPS', cursive;
 
 }
+.f1{
+  font-size: 1rem;
+  color: #558219;
+  font-family: 'BADSCRIPS', cursive;
+
+}
+
+.bb{
+  pading: 80%;
+  margin: 30 20 20 30;
+  text-align: center;
+
+
+}
+
+
 
 img {
   width: 70%;
